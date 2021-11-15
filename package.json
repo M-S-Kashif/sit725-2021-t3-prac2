@@ -1,0 +1,26 @@
+{
+  "name": "repos",
+  "version": "1.0.0",
+  "description": "Uses Nodejs and Expressjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-S-Kashif/sit725-2021-t3-prac2.git"
+  },
+  "keywords": [
+    "Express",
+    "Nodejs"
+  ],
+  "author": "Muhammad Sohaib bin Kashif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-S-Kashif/sit725-2021-t3-prac2/issues"
+  },
+  "homepage": "https://github.com/M-S-Kashif/sit725-2021-t3-prac2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
